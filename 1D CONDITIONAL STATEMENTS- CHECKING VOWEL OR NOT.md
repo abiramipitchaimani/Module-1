@@ -24,7 +24,8 @@ else:
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/c0e3126b-d20e-4672-aead-a280a7d508db
+<img width="437" height="235" alt="image" src="https://github.com/user-attachments/assets/a82db6ec-6717-4204-a789-b30d09b4075a" />
 
 ## RESULT
-Thus, the Python program to find the minimum between three numbers using a conditional expression has been implemented and executed successfully
+Thus, the Python program for Printing User Type Based on Choice has been Implemented and executed successfully.
+
